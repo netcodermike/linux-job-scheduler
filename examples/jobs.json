@@ -1,0 +1,1 @@
+[{"delay_seconds":0,"command":["/usr/bin/printf","hello from a scheduled job\n"]},{"delay_seconds":2,"command":["/usr/bin/true"]}]
